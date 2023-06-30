@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="billTotalTextView" type="id" />
+    <item name="Total_BillEditText" type="id" />
+    <item name="textView2" type="id" />
+    <item name="TipPercentRadioGroup" type="id" />
+    <item name="EightPercentRadioButton" type="id" />
+    <item name="TenPercentradioButton" type="id" />
+    <item name="TwelvePercentRadioButton" type="id" />
+    <item name="customPercentRadioButton" type="id" />
+    <item name="textView3" type="id" />
+    <item name="seekbar" type="id" />
+    <item name="TipCustomValueTextView" type="id" />
+    <item name="textView5" type="id" />
+    <item name="Tip_AmountTextView" type="id" />
+    <item name="textView7" type="id" />
+    <item name="TotalAmounts_TextView" type="id" />
+    <item name="textView9" type="id" />
+    <item name="SplitBy_RadioGroup" type="id" />
+    <item name="SpliyByOneRadioButton" type="id" />
+    <item name="SpliyByTwoRadioButton" type="id" />
+    <item name="SpliyByThreeRadioButton" type="id" />
+    <item name="SpliyByFourRadioButton" type="id" />
+    <item name="textView10" type="id" />
+    <item name="totalPerPersonTextView" type="id" />
+    <item name="clearButton" type="id" />
+</resources>

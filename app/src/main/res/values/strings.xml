@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GratuityCalculationApp</string>
+    <string name="bill_total" />
+    <string name="tip_percent" />
+    <string name="ten_percent" />
+    <string name="fifteen_percent" />
+    <string name="eighteen_percent" />
+    <string name="custom_percent" />
+    <string name="custom_label" />
+    <string name="fifty" />
+    <string name="forty" />
+    <string name="forty_percent" />
+    <string name="enter_bill_total" />
+    <string name="tip" />
+    <string name="zero_dollar" />
+    <string name="total" />
+    <string name="split_by" />
+    <string name="one" />
+    <string name="two" />
+    <string name="three" />
+    <string name="four" />
+    <string name="total_per_person" />
+    <string name="clear" />
+    <string name="please_enter_bill_total" />
+</resources>
